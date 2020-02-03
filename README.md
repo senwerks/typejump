@@ -10,7 +10,7 @@ There are currently 3 levels. I plan on eventually adding more, and some progres
 
 ## How to Play
 
-Download [Typejump (Alpha).zip](https://github.com/obsoletenerd/typejump/blob/master/Typejump%20(Alpha).zip), unzip all files to a folder, run the EXE.
+Download [Typejump.zip](https://github.com/obsoletenerd/typejump/blob/master/Typejump.zip), unzip all files to a folder, run the EXE.
 
 Windows 10 only for now, I plan on making builds for MacOS and Linux soon.
 
