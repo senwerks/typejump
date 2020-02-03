@@ -15,6 +15,8 @@ There are currently 3 levels. I plan on eventually adding more, and some progres
 * F12 to skip to the next level
 * ESC to quit
 
+![Typejump Screenshot](https://github.com/obsoletenerd/typejump/blob/master/Typejump%20Screenshot.png)
+
 ## Credits
 
 The game was built in Game Maker Studio 2, source is included in the repository. It's a quick hacked-together game, don't expect much from the code, it works.
