@@ -8,7 +8,15 @@ The character automatically walks forward, and stops at an obstacle with a lette
 
 There are currently 3 levels. I plan on eventually adding more, and some progressive difficulty (2 letter words, then 3 letter words, etc), but my kids already love playing this as-is so in the spirit of "perfect is the enemy of good", I decided this is good enough for now.
 
-## Keys
+## How to Play
+
+Download [Typejump (Alpha).zip](https://github.com/obsoletenerd/typejump/blob/master/Typejump%20(Alpha).zip), unzip all files to a folder, run the EXE.
+
+Windows 10 only for now, I plan on making builds for MacOS and Linux soon.
+
+If you don't trust the EXE you can clone the repo, then in Game Maker Studio 2 open the YPP file from the Source folder and press F5 to compile and run.
+
+### Keys
 
 * SPACE to start a level
 * F5 to restart the game (if you get stuck or get to the end)
