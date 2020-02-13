@@ -29,4 +29,4 @@ If you don't trust the EXE you can clone the repo, then in Game Maker Studio 2 o
 
 The game was built in Game Maker Studio 2, source is included in the repository. It's a quick hacked-together game, don't expect much from the code, it works.
 
-Art assets were licensed from https://www.kenney.nl, and I used some royalty-free music loops from https://www.purple-planet.com for background music.
+Art assets were licensed from https://www.kenney.nl, and I used some royalty-free tracks from Bad Snacks for background music.
